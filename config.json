@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailuelete",
+        "uuid": 4502316,
+        "checksum": "cbv2xe"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
